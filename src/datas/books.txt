@@ -1,0 +1,5 @@
+BOOK-102@Book A@Comedy@Person E@2
+BOOK-223@Book B@Thriller@Person D@1
+BOOK-127@Book C@Romance@Person C@7
+BOOK-235@Book D@Action@Person B@5
+BOOK-992@Book E@Fantasy@Person A@13
